@@ -2,7 +2,7 @@
   "name": "natours",
   "version": "1.0.0",
   "description": "Sample Node,Express and MongoDB",
-  "main": "app.js",
+  "start": "nodemon server.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
